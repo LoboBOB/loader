@@ -1,6 +1,6 @@
 {
-urlOne: "link"
-urlTwo: "link",
+urlOne: "link",
+urlTwo: "https://yandex.ru/",
 linkOneState: "false",
-linkTwoState: "false"
+linkTwoState: "true"
 }
