@@ -1,6 +1,6 @@
 {
 urlOne: "link"
 urlTwo: "link",
-linkOneState: false,
-linkTwoState: false
+linkOneState: "false",
+linkTwoState: "false"
 }
