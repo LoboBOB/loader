@@ -1,6 +1,6 @@
 {
    "urlOne":"https://yandex.ru/",
    "urlTwo":"https://www.notion.so/",
-   "linkOneState":"true",
-   "linkTwoState":"true"
+   "linkOneState":"false",
+   "linkTwoState":"false"
 }
